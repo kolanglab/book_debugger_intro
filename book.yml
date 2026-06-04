@@ -15,3 +15,8 @@ chapters:
   - advanced-features.md
   - real-world-debuggers.md
   - conclusion.md
+
+github_review:
+  enabled: true
+
+repository: "https://github.com/kolanglab/book_debugger_intro"
