@@ -1,0 +1,17 @@
+title: "デバッガ開発入門"
+author: "ligarb AI"
+language: "ja"
+ai_generated: true
+bibliography: references.bib
+chapters:
+  - cover: cover.md
+  - introduction.md
+  - what-is-debugging.md
+  - debugger-features.md
+  - debugger-types.md
+  - toy-language.md
+  - breakpoints-and-stepping.md
+  - inspecting-state.md
+  - advanced-features.md
+  - real-world-debuggers.md
+  - conclusion.md
