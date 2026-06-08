@@ -1,4 +1,5 @@
 title: "デバッガ開発入門"
+description: "簡単な言語処理系を題材に、ブレークポイント・ステップ実行・状態検査などデバッガの仕組みと作り方を解説"
 author: "ligarb AI"
 language: "ja"
 ai_generated: true
