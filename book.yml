@@ -1,4 +1,6 @@
 title: "デバッガ開発入門"
+head: |
+  <script data-goatcounter="https://ko1.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 description: "簡単な言語処理系を題材に、ブレークポイント・ステップ実行・状態検査などデバッガの仕組みと作り方を解説"
 author: "ligarb AI"
 language: "ja"
